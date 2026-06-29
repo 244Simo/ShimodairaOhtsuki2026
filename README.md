@@ -5,7 +5,7 @@ This repository contains all codes used for the manuscript.<br>
 ### Numerical calculation
 #### Coordinated optimal strategy (Scenario 0)
 **Main text**
-- Figure 2: plot the classification of parameter region according to the COS strategy
+- Figure 2: classification of parameter region according to the COS strategy
 
 **Supplementary material**
 - Figure A.1:
