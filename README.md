@@ -8,8 +8,8 @@ This repository contains all codes used for the manuscript.<br>
 - Figure 2: classification of parameter region according to the COS strategy
 
 **Supplementary material**
-- Figure A.1:
-- Figure A.2:
+- Figure A.1: classification of parameter region during the COS derivaion
+- Figure A.2: heatmap of COS time allocation
 
 #### Evolutionarily Stable Strategy (Scenario 1 & Scenario 2)
 **Main text**
