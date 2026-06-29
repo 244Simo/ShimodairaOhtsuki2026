@@ -1,2 +1,3 @@
 # ShimodairaOhtsuki2026
-Souece code for numerical calculations and individual-based simulations presented in "Evolution of teaching under incomplete chance of vertical cultural transmission"
+This repository contains all codes used for the manuscript:
+"Evolution of teaching under incomplete chance of vertical cultural transmission" by Tsuyoshi Shimodaira, Hisashi Ohtsuki
