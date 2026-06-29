@@ -8,15 +8,16 @@ This repository contains all codes used for the manuscript.<br>
 - Figure 2: classification of parameter region according to the COS strategy
 
 **Supplementary material**
-- Figure A.1: classification of parameter region during the COS derivaion
+- Figure A.1: parameter region during the COS derivaion
 - Figure A.2: heatmap of COS time allocation
 
 #### Evolutionarily Stable Strategy (Scenario 1 & Scenario 2)
 **Main text**
-- Figure 3:
-- Figure 4:
-- Figure 5 & Figure H.1:
-- Figure 6:
+- Figure 3: classification of parameter region according to the ESS strategy in Scenario 1
+- Figure 4: dependence of the probability of vertical transmission, the ESS time allocation, equilibrium cultural level & fitness in Scenario 1
+- Figure 5: 
+- Figure 6: classification of parameter region according to the ESS strategy in Scenario 2
+- Figure 7 & & Figure H.1:
 
 **Supplementary material**
 - Figure C.2:
