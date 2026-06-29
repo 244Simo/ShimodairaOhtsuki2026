@@ -1,3 +1,10 @@
-# ShimodairaOhtsuki2026
+# Evolution of teaching under incomplete chance of vertical cultural transmission
+## About the code
 This repository contains all codes used for the manuscript:<br>
-"Evolution of teaching under incomplete chance of vertical cultural transmission" by Tsuyoshi Shimodaira, Hisashi Ohtsuki
+
+
+## About the paper
+**Title**: Evolution of teaching under incomplete chance of vertical cultural transmission<br>
+**Authors**: Tsuyoshi Shimodaira, Hisashi Ohtsuki<br>
+
+
