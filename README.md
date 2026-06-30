@@ -1,4 +1,4 @@
-# Evolution of teaching under incomplete chance of vertical cultural transmission
+# Evolution of teaching under the incomplete chance of vertical cultural transmission
 ## About the code
 This repository contains all codes used for the manuscript.<br>
 
@@ -29,7 +29,7 @@ This repository contains all codes used for the manuscript.<br>
 - Figure I.1 & I.2 & I.3: 
 
 ## About the paper
-**Title**: Evolution of teaching under incomplete chance of vertical cultural transmission<br>
+**Title**: Evolution of teaching under the incomplete chance of vertical cultural transmission<br>
 **Authors**: Tsuyoshi Shimodaira, Hisashi Ohtsuki<br>
 
 
