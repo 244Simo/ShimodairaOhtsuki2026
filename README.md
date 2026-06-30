@@ -17,7 +17,7 @@ This repository contains all codes used for the manuscript.<br>
 - Figure 4: dependence of the probability of vertical transmission, the ESS time allocation, equilibrium cultural level & fitness in Scenario 1
 - Figure 5: 
 - Figure 6: classification of parameter region according to the ESS strategy in Scenario 2
-- Figure 7 & & Figure H.1:
+- Figure 7 (Figure H.1):
 
 **Supplementary material**
 - Figure C.2:
