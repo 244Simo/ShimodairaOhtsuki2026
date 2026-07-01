@@ -4,7 +4,7 @@ from matplotlib.patches import Patch
 import numpy as np
 
 ### define function
-## boundary(teaching COS)
+## boundary(only teaching COS)
 # upper
 def f_up(gamma):
     return 0.5*(gamma+np.sqrt(gamma**2-8*gamma))
@@ -39,13 +39,13 @@ beta_sub_array=[]
 
 #### main program
 ## calculation of the boundary point between teaching COS and non-teaching COS on β=2 
-## We can start the calculation from γ=12 because 
+## We can start the calculation from γ=12(γ=12 is not the boundary but it satisfies (β+γ)**2-16γ>0)
 gamma_intersection_temp=12
 while f_w_noteaching(2)>f_w_teaching(2,gamma_intersection_temp):
     gamma_intersection_temp += delta
 gamma_intersection=gamma_intersection_temp
 
-
+## calculate each boundary
 for i in np.arange(8, gamma_max+delta/2, delta):
     gamma=np.round(i, 5)    # round the γ-value
     if gamma <= 9:
