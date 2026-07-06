@@ -20,7 +20,7 @@ This repository contains all codes used for the manuscript.<br>
 - Figure 7 (Figure H.1):
 
 **Supplementary material**
-- Figure C.2:
+- Figure C.2: graph of y=f(ξ) on the ξ-y plane(visualize the shape of the function)
 - Figure E.1:
 - Figure G.1 & G.2: 
 
