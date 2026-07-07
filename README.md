@@ -21,7 +21,7 @@ This repository contains all codes used for the manuscript.<br>
 
 **Supplementary material**
 - Figure C.2: graph of y=f(ξ) on the ξ-y plane(visualize the shape of the function)
-- Figure E.1:
+- Figure E.1: Numerical analysis of the ESS in Scenario 1
 - Figure G.1 & G.2: 
 
 ### Individual based simulation 
