@@ -17,7 +17,7 @@ This repository contains all codes used for the manuscript.<br>
 - Figure 4: dependence of the probability of vertical transmission, the ESS time allocation, equilibrium cultural level & fitness in Scenario 1
 - Figure 5: comparison the length of each stage and cultural level between teaching ESS and no-teaching ESS 
 - Figure 6: classification of parameter region according to the ESS strategy in Scenario 2
-- Figure 7(included in Figure H.1): ESS comparison between Scenario 1 and Scenario 2(τ_{TE} & z)
+- Figure 7(included in Figure H.1): ESS comparison between Scenario 1 and Scenario 2(τ<sub>TE<\sub> & z)
 
 **Supplementary material**
 - Figure C.2: graph of y=f(ξ) on the ξ-y plane(visualize the shape of the function)
