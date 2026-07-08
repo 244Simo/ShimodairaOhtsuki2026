@@ -40,7 +40,6 @@ int main(void){
     int gamma_max;  // max value of γ
     double delta_beta;  // stepsize for calculation on β 
     double delta_gamma; // stepsize for calculation on γ
-    double delta_q;     // stepsize for calculation on q
 
     double beta;
     double gamma;
@@ -74,7 +73,6 @@ int main(void){
     gamma_max=30;
     delta_beta=0.2;
     delta_gamma=0.2;
-    delta_q=0.1;
     max_step=pow(10,4);
     mutation_step=0.001;
     mut_rate=0.5;
