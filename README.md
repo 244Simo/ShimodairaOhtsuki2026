@@ -27,7 +27,8 @@ This repository contains all codes used for the manuscript.<br>
 
 ### Individual based simulation 
 **Supplementary material**
-- Figure I.1 & I.2 & I.3: 
+- Figure I1: Individual based simulation in Scenario 1
+- Figure I.2 & I.3: Individual based simulation in Scenario 2
 
 ## About the paper
 **Title**: Evolution of teaching under the incomplete chance of vertical cultural transmission<br>
